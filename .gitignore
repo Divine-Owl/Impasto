@@ -1,0 +1,14 @@
+# Local restore/backup points (not part of the config)
+backup-20261018-edited/
+.pre-meeko-restore-20261019/
+
+# Pre-sync backups
+*.bak-*
+qmldir.bak
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Runtime state / logs
+*.log
